@@ -11,7 +11,7 @@ import java.security.NoSuchAlgorithmException;
 
 /**
  *
- * @author pc
+ * @author #Minh HE140581
  */
 public class LoginProgram {
 
